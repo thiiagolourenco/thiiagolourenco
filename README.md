@@ -3,8 +3,12 @@
 <a target="_blank" href="https://www.linkedin.com/in/thiago-lourenço-201053173/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lourenço-201053173/ "Connect on LinkedIn")
-</br>
+<a href="https://www.linkedin.com/in/thiago-lourenço-201053173/">
+  <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lourenço-201053173/">
+</a>
+<a href="https://github.com/thiiagolourenco" style="margin-left: 8px;">
+  <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=GitHub&logoColor=white&link=https://github.com/thiiagolourenco">
+</a>
 
 ---- 
 
