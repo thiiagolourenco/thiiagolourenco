@@ -9,7 +9,7 @@
 
 ---- 
 
-Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Full Stack do Brazil 💚, tenho **22 anos** 👶🏻 e **5 anos na área** 🧐. 
+Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Full Stack 💚, tenho **22 anos** 👶🏻 e **5 anos na área** 🧐. 
 
 **Atleta** nas horas vagas 🏋️‍♂️, **curioso** 🤔 e um bom **jogador de video game** 🎮. 
 
