@@ -34,4 +34,4 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Full Stack 💚, te
 
 #### Dá uma olhada no meu status 
    
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiiagolourenco&theme=tokyonight&show_icons=true)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiiagolourenco&show_icons=true)
