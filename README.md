@@ -29,7 +29,7 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Full Stack 💚, te
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolourenco&theme=tokyonight&layout=compact)](https://github.com/thiiagolourenco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolourenco&layout=compact)](https://github.com/thiiagolourenco/github-readme-stats)
 ----
 
 #### Dá uma olhada no meu status 
