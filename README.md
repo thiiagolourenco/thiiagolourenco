@@ -15,7 +15,7 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Full Stack 💚, te
 
 * 💫 Sempre visando a **usabilidade** e **performance** do código. 
 * 👽 Aprendendo toda **tecnologia** que desperte interesse em mim, principalmente na área de **Front-end**.
-* 🛹 Também dou uma surfada na área de **UX/UI**.
+* 🛹 Também atuo na área de **UX/UI**.
 
 ----
 
