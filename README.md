@@ -9,13 +9,13 @@
 
 ---- 
 
-Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, tenho **22 anos** 👶🏻 e **2 anos na área** 🧐. 
+Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, tenho **23 anos** 👶🏻 e **2 anos na área** 🧐. 
 
 **Atleta** nas horas vagas 🏋️‍♂️, **curioso** 🤔 e um bom **jogador de video game** 🎮. 
 
 * 💫 Sempre visando a **usabilidade** e **performance** do código. 
-* 👽 Aprendendo toda **tecnologia** que desperte interesse em mim, principalmente na área de **Front-end**.
-* 🛹 Também atuo na área de **UX/UI**.
+* 👽 Aprendendo toda **tecnologia** que desperte interesse em mim, principalmente na área de **Front-end e UI**.
+* 🛹 Também atuo na área de **UI Designer**.
 
 ----
 
