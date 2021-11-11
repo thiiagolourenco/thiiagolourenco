@@ -31,8 +31,8 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, ten
 </p>  
 <p>  
   <img height="22" src="https://img.shields.io/badge/-Spring-green?style=flat&logo=Spring&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-Git-blue?style=flat&logo=git&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
 </p>
 
 
