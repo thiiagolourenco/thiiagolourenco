@@ -36,7 +36,7 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, ten
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolourenco&layout=compact)](https://github.com/thiiagolourenco/github-readme-stats)
 ----
-
+<!--
 #### Dá uma olhada no meu status 
    
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiiagolourenco&show_icons=true)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiiagolourenco&show_icons=true)-->
