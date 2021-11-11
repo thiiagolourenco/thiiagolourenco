@@ -26,8 +26,8 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, ten
   <img height="22" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-Html-orange?style=flat&logo=html&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-Css-blue?style=flat&logo=css&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Html-orange?style=flat&logo=HTML&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Css-blue?style=flat&logo=CSS&logoColor=white">
   
   
   
