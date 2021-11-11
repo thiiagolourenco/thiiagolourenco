@@ -1,7 +1,11 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a href="https://www.linkedin.com/in/thiago-lourenço-201053173/">
-  <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lourenço-201053173/">
+<a href="https://www.linkedin.com/in/thiiagolourenco/">
+  <img alt="Feito por thiiagolourenco" height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiiagolourenco/">
+</a>
+
+<a href="https://thiiagolourenco.medium.com/">
+  <img alt="Feito por thiiagolourenco" height="22" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://thiiagolourenco.medium.com/">
 </a>
 
 ---- 
@@ -20,13 +24,15 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, ten
 <p>
   <img height="22" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Html-orange?style=flat&logo=Html&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Css-blue?style=flat&logo=Css&logoColor=white">
+  
+  
+  
   <img height="22" src="https://img.shields.io/badge/-Spring-green?style=flat&logo=Spring&logoColor=white">
 </p>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
