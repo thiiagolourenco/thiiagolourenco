@@ -18,8 +18,8 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, ten
 
 **Linguagens e ferramentas:**  
 
-<img height="30" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&logoColor=white">
-<img height="30" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&logoColor=white">
+<img height="22" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
