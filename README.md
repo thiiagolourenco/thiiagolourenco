@@ -1,11 +1,11 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a href="https://www.linkedin.com/in/thiiagolourenco/">
-  <img alt="Feito por thiiagolourenco" height="22" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiiagolourenco/">
+  <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiiagolourenco/">
 </a>
 
 <a href="https://thiiagolourenco.medium.com/">
-  <img alt="Feito por thiiagolourenco" height="22" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://thiiagolourenco.medium.com/">
+  <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://thiiagolourenco.medium.com/">
 </a>
 
 ---- 
@@ -28,6 +28,7 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, ten
   <img height="22" src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-SQL-orange?style=flat&logo=Sql&logoColor=white">
   
   
   
