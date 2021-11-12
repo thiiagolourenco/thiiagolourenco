@@ -33,6 +33,6 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, ten
   <img height="22" src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
 </p> 
 
-#### Dá uma olhada nos meus status
+#### Dá uma olhada nos meus status:
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiiagolourenco&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolourenco&layout=compact)](https://github.com/thiiagolourenco/github-readme-stats)
