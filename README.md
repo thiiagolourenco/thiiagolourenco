@@ -10,7 +10,7 @@
 
 ---- 
 
-Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, tenho **23 anos** 👶🏻 e **2 anos na área** 🧐. 
+Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, tenho **23 anos** 👶🏻 e **2,5 anos na área** 🧐. 
 
 **Atleta** nas horas vagas 🏋️‍♂️, **curioso** 🤔 e um bom **jogador de video game** 🎮. 
 
@@ -28,7 +28,7 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, ten
   <img height="22" src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-Spring-green?style=flat&logo=Node&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-NodeJS-green?style=flat&logo=NodeJS&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-Spring-green?style=flat&logo=Spring&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-PostgreSql-blue?style=flat&logo=postgresql&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
