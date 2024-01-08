@@ -6,6 +6,7 @@
 
 <a href="https://thiiagolourenco.medium.com/">
   <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://thiiagolourenco.medium.com/">
+  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </a>
 
 ---- 
