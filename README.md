@@ -10,7 +10,7 @@
 
 ---- 
 
-Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor de Software 💚, tenho **25 anos** e **5 anos dentro do mercado na área** 🧐. 
+Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor de Software Full-stack 💚, tenho **25 anos** e **5 anos dentro do mercado na área** 🧐. 
 
 **Atleta** nas horas vagas 🏋️‍♂️, **curioso** 🤔 e um bom **jogador de futebol e video game** ⚽🎮. 
 
