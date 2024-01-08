@@ -10,26 +10,26 @@
 
 ---- 
 
-Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor Web Front-end 💚, tenho **23 anos** 👶🏻 e **2,5 anos na área** 🧐. 
+Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor de Software 💚, tenho **25 anos** e **5 anos dentro do mercado na área** 🧐. 
 
-**Atleta** nas horas vagas 🏋️‍♂️, **curioso** 🤔 e um bom **jogador de video game** 🎮. 
+**Atleta** nas horas vagas 🏋️‍♂️, **curioso** 🤔 e um bom **jogador de futebol e video game** ⚽🎮. 
 
 * 💫 Sempre visando a **usabilidade** e **performance** do código. 
-* 👽 Aprendendo toda **tecnologia** que desperte interesse em mim, principalmente na área de **Front-end e UI**.
-* 🛹 Também atuo na área de **UI Designer**.
+* 👽 Aprendendo toda **tecnologia** que desperte interesse em mim, principalmente na área de **Desenvolvimento Back-end, Front-end e IA**.
+* 🛹 Também já atuei na área de **UI Designer** por 1 ano mais ou menos.
 
 ----
 
-**Linguagens e ferramentas:**  
+**Principais linguagens e ferramentas:**  
 <p>
-  <img height="22" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-Spring-green?style=flat&logo=Spring&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-PostgreSql-blue?style=flat&logo=postgresql&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
 </p> 
