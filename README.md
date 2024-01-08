@@ -22,16 +22,20 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor de Software 💚, tenho
 
 **Principais linguagens e ferramentas:**  
 <p>
-  <img height="22" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Java-orange?style=flat&logo=Java&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Python-ciano?style=flat&logo=Python&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
+</p>
+<p>
+  <img height="22" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white">
+  <img height="22" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-Spring-green?style=flat&logo=Spring&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js&logoColor=white">
   <img height="22" src="https://img.shields.io/badge/-PostgreSql-blue?style=flat&logo=postgresql&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
 </p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolourenco&layout=compact)](https://github.com/thiiagolourenco/github-readme-stats)
