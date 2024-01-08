@@ -1,12 +1,11 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### ✌🏽👦🏽 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a href="https://www.linkedin.com/in/thiiagolourenco/">
-  <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiiagolourenco/">
+  <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://thiiagolourenco.medium.com/">
   <img alt="Medium thiiagolourenco" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://thiiagolourenco.medium.com/" />
-  <img alt="Feito por thiiagolourenco" src="[https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)">
 </a>
 
 ---- 
@@ -16,43 +15,44 @@ Eae, tudo bom ? Eu me chamo Thiago, sou um Desenvolvedor de Software 💚, tenho
 **Atleta** nas horas vagas 🏋️‍♂️, **curioso** 🤔 e um bom **jogador de futebol e video game** ⚽🎮. 
 
 * 💫 Sempre visando a **usabilidade** e **performance** do código. 
-* 👽 Aprendendo toda **tecnologia** que desperte interesse em mim, principalmente na área de **Desenvolvimento Back-end, Front-end e IA**.
-* 🛹 Também já atuei na área de **UI Designer** por 1 ano mais ou menos.
+* 👨🏽‍💻 Aprendendo toda **tecnologia** que desperte interesse em mim, principalmente na área de **Desenvolvimento Back-end, Front-end e IA**.
+* 🖼️ Também já atuei na área de **UI Designer** por 1 ano mais ou menos.
 
 ----
 
 **Linguagens de Programação:**  
 <p>
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Java" src="" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 **Linguagens de Marcação e Estilo:**
 <p>
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 **Bibliotecas e Frameworks:**
 <p>
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  <img height="22" src="https://img.shields.io/badge/-Spring-green?style=flat&logo=Spring&logoColor=white">
-  <img height="22" src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img alt="Node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 **Cloud Computing Service:**
 <p>
-  ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  <img alt="AWS Cloud" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 **Banco de dados:**
 <p>
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+  <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 **Ferramentas:**
 <p>
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <img alt="Git" src=""/>
+  <img alt="Vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolourenco&layout=compact)](https://github.com/thiiagolourenco/github-readme-stats)
