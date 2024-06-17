@@ -14,10 +14,10 @@ Eae, tudo bom ? Eu me chamo **Thiago**, sou um **Desenvolvedor de Software Full-
 
 **Atleta** nas horas vagas 🏋️‍♂️, **curioso** 🤔 e um bom **jogador de futebol e video game** ⚽🎮. 
 
-* 💻 Desenvolvedor de Software @[Samsung Instituto de Desenvolvimento para Informática (SIDI)](https://www.sidi.org.br/). 
+* 💻 Engenheiro de Software. 
 * 💫 Sempre visando a **usabilidade** e **performance** do código. 
-* 👨🏽‍💻 Aprendendo toda **tecnologia** que desperte interesse em mim, principalmente na área de **Desenvolvimento Back-end, Front-end e IA**.
-* 🖼️ Também já atuei na área de **UI Designer** por 1 ano mais ou menos.
+* 👨🏽‍💻 Aprendendo toda **tecnologia** que me desperte interesse, principalmente na área de **Desenvolvimento Back-end, Front-end e IA**.
+* 🖼️ Também já atuei na área de **UX/UI Designer** por 1 ano mais ou menos, criando interfaces modernas e que entreguem o que cliente **precisa**.
 
 ----
 
