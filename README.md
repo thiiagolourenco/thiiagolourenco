@@ -59,7 +59,13 @@ Eae, tudo bom ? Eu me chamo **Thiago**, sou um **Desenvolvedor de Software Full-
 **Ferramentas:**
 <p>
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  
   <img alt="Vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="IntelliJ" src="https://img.shields.io/badge/Intellij-0078D4?style=for-the-badge&logo=intellij%20studio%20code&logoColor=white"/>
+
+  <img alt="JIRA" src="https://img.shields.io/badge/JIRA-0078D4?style=for-the-badge&logo=jira%20studio%20code&logoColor=white"/>
+  <img alt="Redmine" src="https://img.shields.io/badge/Redmine-0078D4?style=for-the-badge&logo=redmine%20studio%20code&logoColor=white"/>
+    
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
