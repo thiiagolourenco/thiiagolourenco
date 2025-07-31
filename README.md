@@ -51,8 +51,9 @@ Eae, tudo bom ? Eu me chamo **Thiago**, sou um **Desenvolvedor de Software Full-
 
 **Banco de dados:**
 <p>
-  <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/Sqlserver-316192?style=for-the-badge&logo=sqlserver&logoColor=white" />
+  <img alt="Postgre SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=Microsoftsql&logoColor=white" />
+  <img alt="My SQL" src="https://img.shields.io/badge/Mysql-316192?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 **Ferramentas:**
