@@ -14,7 +14,7 @@ Eae, tudo bom ? Eu me chamo **Thiago**, sou um **Desenvolvedor de Software Full-
 
 **Atleta** nas horas vagas 🏋🏽‍♂️🏄🏽🏃🏽⚽, **curioso** 🤔 e **nerd** 🎮. 
 
-* 💻 Engenheiro de Software. 
+* 💻 Formado em Engenharia da Computação pela UPE e atuo como Engenheiro de Software. 
 * 💫 Sempre visando a **usabilidade** e **performance** do código. 
 * 👨🏽‍💻 Aprendendo toda **tecnologia** que me desperte interesse, principalmente na área de **Desenvolvimento Back-end, Front-end e IA**.
 * 🖼️ Também já atuei na área de **UX/UI Designer** por 1,5 ano, criando interfaces modernas e que entreguem o que cliente **precisa**.
@@ -27,7 +27,7 @@ Eae, tudo bom ? Eu me chamo **Thiago**, sou um **Desenvolvedor de Software Full-
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="React" src="https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue" />
 </p>
 
 **Linguagens de Marcação e Estilo:**
